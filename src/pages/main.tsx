@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBar from "../components/ui/searchBar";
+import SearchBar from "../components/ui/SearchBar";
 
 export default function Main() {
     return (
